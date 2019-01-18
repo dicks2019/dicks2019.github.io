@@ -1,10 +1,10 @@
 theme: jekyll-theme-leap-day
-title: DICKS
+title: DICKS 2019
 
 defaults:
   - scope:
-      path: "2019"
+      path: "<a>DICKS</a> — Data Intensive Computations for Knowledge-based Systems (PAGE IN PROGRESS!)"
     values:
-      title: "<a>DICKS</a> — Data Intensive Computations for Knowledge-based Systems"
-      description: "<a href=\"http://www2019.thewebconf.org\">WWW'19</a> special"
+      title: "<a>DICKS</a> — Data Intensive Computations for Knowledge-based Systems (PAGE IN PROGRESS!)"
+      description: "The First Annual Conference on Data Intensive Computations for Knowledge-based Systems (DICKS) is a deep learning and computational neuroscience conference that includes invited talks, demonstrations, symposia and oral and poster presentations of refereed papers. Following the conference, there are workshops which provide a less formal setting"
 
