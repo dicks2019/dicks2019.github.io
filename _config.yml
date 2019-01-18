@@ -3,12 +3,8 @@ title: DICKS
 
 defaults:
   - scope:
-      path: ""
+      path: "2019"
     values:
       title: "<a>DICKS</a> — Data Intensive Computations for Knowledge-based Systems"
       description: "<a href=\"http://www2019.thewebconf.org\">WWW'19</a> special"
-  - scope:
-      path: "2018"
-    values:
-      title: "<a>DICKS</a> — Data Intensive Computations for Knowledge-based Systems"
-      description: "co-located with <a href=">DICKS'19</a>"
+
